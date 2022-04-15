@@ -9,8 +9,8 @@ Procurement management is a strategic approach to acquiring goods or services fr
 
 Your target is to balance supply and demand in a manner to ensure a minimum level of inventory to meet your store demand.
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/procurement-process-optimization-with-python-a4c7a2e3ba76), will present a simple methodology using Non-Linear Programming to design an optimal inventory replenishment strategy for a mid-size retail store considering:
+### Article
+In this [Article](https://www.samirsaci.com/procurement-process-optimization-with-python/), will present a simple methodology using Non-Linear Programming to design an optimal inventory replenishment strategy for a mid-size retail store considering:
 - Transportation Costs from the Supplier Warehouse to the Store Reserve ($/Carton)
 - Costs to finance your inventory (% of inventory value in $)
 - Reserve (Store’s Warehouse) Rental Costs for storage ($/Carton)
