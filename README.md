@@ -34,7 +34,24 @@ Which Quantity per replenishment (Qi) should you set in the ERP to minimise tota
 ## Code
 In this repository, you will find all the code used to explain the concepts presented in the article.
 
+### Files
+- `Procurement Strategy with Python.ipynb` - Jupyter notebook with step-by-step analysis
+- `procurement_optimization.py` - Standalone Python script
+
+### Getting Started
+```bash
+pip install -r requirements.txt
+python procurement_optimization.py
+```
+
+### Dependencies
+- pandas
+- pulp
+- numpy
+- scipy
+
+
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)\
-Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/).\
+For more case studies, check my [Personal Website](https://samirsaci.com).

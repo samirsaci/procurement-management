@@ -1,0 +1,4 @@
+pandas
+pulp
+numpy
+scipy
